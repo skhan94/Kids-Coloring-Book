@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549615978505",
+    "firebase_url": "https://kids-coloring-book-900a1.firebaseio.com",
+    "project_id": "kids-coloring-book-900a1",
+    "storage_bucket": "kids-coloring-book-900a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549615978505:android:ba1038d9d7e1f1dd",
+        "android_client_info": {
+          "package_name": "com.fsd.kidscoloringbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549615978505-gcu24ilp7lvqtlsdr8g06ppkdvoi5hi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZgS6vXDx46t5JgRaDNjbessnbeh4uiPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
